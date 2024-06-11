@@ -1,6 +1,4 @@
 # Portfolio-Website
 HTML, CSS and JavaScript portfolio website.
 
-Responsive single page design
-Contains some animation
-Looks good on both mobile and web platforms.
+Responsive single page design that contains some animation and will look good on both mobile and desktop platforms.
